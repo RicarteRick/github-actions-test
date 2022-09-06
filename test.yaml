@@ -1,0 +1,21 @@
+name: Rick
+age: 20
+key:
+  key: value
+  key2: 33
+  key3:
+    key: value
+jsonObject: { key: value, key2: 33}
+array:
+  - item1
+  - item2
+  - { key: value }
+jsonArray: [item1, item2]
+longText: >
+  asdmfaosdmfasidfmasod fmasidfmasodfimasidfmas dofiamsmd
+  asdfmasodfma sdifamsdof
+  asdf amosdfmaisdmfaisdmfiasdm faisd
+longTextWithLines: |
+  asdmfaosdmfasidfmasod fmasidfmasodfimasidfmas dofiamsmd
+  asdfmasodfma sdifamsdof
+  asdf amosdfmaisdmfaisdmfiasdm faisd
